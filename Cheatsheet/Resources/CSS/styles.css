@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.box {
+    height: 250px;
+    width: 100%;
+    padding-left: 15px;
+}
+
+
+.tag {
+    background-color: yellow;
+}
+
+.class {
+    background-color: blue;
+    color: aqua;
+}
+
+.id {
+    background-color: green;
+    color: lime;
+}
